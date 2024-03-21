@@ -1,0 +1,17 @@
+.items {
+  list-style-type: none;
+  display: flex;
+  margin-right: 15px;
+}
+
+.logo-url {
+  height: 40px;
+  width: 40px;
+}
+
+.course-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-left: 10px;
+}
